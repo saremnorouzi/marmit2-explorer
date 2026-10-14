@@ -12,7 +12,7 @@ Nothing to install. The app runs in any modern browser. For offline use, click *
 
 ## Model and data
 
-Reflectance is computed exactly as in the official MARMIT-2 Python function `get_spectrum`. The JavaScript implementation was verified against the reference code to machine precision (maximum absolute difference about 3 × 10⁻¹⁵) on four dry soils × 4,150 parameter sets, including all fitted parameter sets of the eight MARMIT-2 validation databases.
+Reflectance is computed as in the official MARMIT-2 Python function `get_spectrum`. 
 
 - Water refractive index: Segelstein (1981)
 - Water absorption: Buiteveld et al. (1994), Kou et al. (1993), Wieliczka et al. (1989)
